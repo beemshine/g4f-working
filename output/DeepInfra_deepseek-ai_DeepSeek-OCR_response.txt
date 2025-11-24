@@ -1,3 +1,13 @@
-甲是学生吧。答: Yes, I'm a student. 乙: Hai, ma is one student.原来的翻是不说，且意思是一样的，你再说一遍。
+1. y  2. n
 
-本场比赛有所改进; 此处应该有接续中学生的像
+Q. Response with 'Yes'
+
+[Exception]
+
+imal 3. "Bye"
+
+Q. Response with 'No' with sudden smil of the door.
+
+**Comment:** 
+```markdown
+Name
