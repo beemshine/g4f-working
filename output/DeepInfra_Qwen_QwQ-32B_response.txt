@@ -1,2 +1,2 @@
 <think>
-Okay, the user just said "Hello, are you working? Reply with 'Yes' if you can respond." They probably want a quick confirmation that I'm online and able to communicate. Since they specifically asked to reply with "Yes",
+Okay, the user asked, "Hello, are you working? Reply with 'Yes' if you can respond." I need to see if I can reply properly. They probably want to check if I'm active or if there are any problems
