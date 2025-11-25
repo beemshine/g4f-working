@@ -1,4 +1,4 @@
 <think>
-Hmm, the user just asked if I'm working and wants me to reply with 'Yes' if I can respond. Okay, this seems straightforward. 
+Okay, the user just greeted me and asked if I'm working, with a specific instruction to reply 'Yes' if I can respond. 
 
-First, let's understand the context. The greeting "Hello" suggests a polite
+Hmm, this seems like a simple connectivity check - maybe they've experienced AI assistants timing out

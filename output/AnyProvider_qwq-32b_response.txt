@@ -1,2 +1,0 @@
-<think>
-Okay, the user sent a greeting and is asking if I'm available to respond. I need to confirm they can interact. I should reply with 'Yes' as instructed and then offer further assistance. I'll follow the user's lead to

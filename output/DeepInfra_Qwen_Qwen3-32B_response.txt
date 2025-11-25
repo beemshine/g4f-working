@@ -1,2 +1,2 @@
 <think>
-Okay, so I need to figure out the best way to respond to this user's message. The user said, "Hello, are you working? Reply with 'Yes' if you can respond." Let me think about all the aspects involved
+Okay, the user greeted me, so I should respond in a friendly manner. The user asked if I'm working and told me to reply with 'Yes' if I can respond. I need to first confirm that I am working and can

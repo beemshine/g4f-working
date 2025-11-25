@@ -1,2 +1,4 @@
 <think>
-Okay, so I need to figure out how to make my computer faster. The user mentioned that their computer is slow, so maybe they're referring to startup speed or overall performance. Let me think about the possible reasons why a computer might be
+Okay, so I need to figure out how to solve this problem: the area of a triangle when given two sides and the included angle. Let me think about what I know about triangles and area formulas.
+
+I remember that there are a few
