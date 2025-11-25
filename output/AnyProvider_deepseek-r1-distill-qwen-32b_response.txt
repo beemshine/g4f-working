@@ -1,2 +1,4 @@
 <think>
-Okay, so I'm trying to figure out how to respond when someone asks if I'm working. They mentioned that I should reply with 'Yes' if I can respond. At first glance, it seems straightforward, but I wonder if there
+Okay, the user wants me to describe the thought process of an AI when the user asks, "Hello, are you working? Reply with 'Yes' if you can respond." Hmm, let me break this down. 
+
+First, the

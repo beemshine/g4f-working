@@ -1,2 +1,2 @@
 <think>
-Okay, the user is asking if I'm working. They want a reply with 'Yes'. Let me check. I need to make sure I'm available and can respond. Since the user is using a simple check to see if I'm
+Okay, the user sent a greeting and is asking if I'm available to respond. I need to confirm they can interact. I should reply with 'Yes' as instructed and then offer further assistance. I'll follow the user's lead to

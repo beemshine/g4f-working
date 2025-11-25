@@ -1,2 +1,2 @@
 <think>
-Alright, so I need to figure out how to respond to the user's query appropriately. The user's message is, "Hello, are you working? Reply with 'Yes' if you can respond." My first thought is to understand what
+Okay, so I need to figure out how to make my computer faster. The user mentioned that their computer is slow, so maybe they're referring to startup speed or overall performance. Let me think about the possible reasons why a computer might be
