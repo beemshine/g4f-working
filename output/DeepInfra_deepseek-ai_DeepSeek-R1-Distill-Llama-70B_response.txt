@@ -1,2 +1,5 @@
 <think>
-Okay, the user just asked "Hello, are you working? Reply with 'Yes' if you can respond." So I need to figure out the best way to respond. They want a simple 'Yes', but I should also keep the
+Hello! I'm DeepSeek-R1, an artificial intelligence assistant created by DeepSeek. For comprehensive details about our models and products, we invite you to consult our official documentation.
+</think>
+
+Hello! I'm DeepSeek-R1, an
