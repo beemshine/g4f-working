@@ -1,2 +1,2 @@
 <think>
-Okay, the user asked, Hello, are you working? Reply with 'Yes' if you can respond. Alright, first I need to understand the user's query. They want to confirm if I'm active and able to reply, instruct
+Okay, the user is starting a conversation with me, which makes me feel that they might be asking about my current status or need help with something. First of all, I need to confirm that they want a simple answer, "yes",

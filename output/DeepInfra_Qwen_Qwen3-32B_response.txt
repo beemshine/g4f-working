@@ -1,2 +1,4 @@
 <think>
-Okay, the user is asking if I am working and wants me to reply with 'Yes' if I can respond. Let me make sure I understand correctly. They want confirmation that I am active and able to communicate. Since I am an
+Alright, the user just asked, "Hello, are you working? Reply with 'Yes' if you can respond." Let me break this down.
+
+First, they're greeting me and checking if I'm operational. The key part here is

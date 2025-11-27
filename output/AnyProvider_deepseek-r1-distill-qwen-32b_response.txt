@@ -1,2 +1,2 @@
 <think>
-Okay, so I've just received this message from someone, and they wrote "Hello, are you working? Reply with 'Yes' if you can respond." Hmm, I need to figure out how to respond appropriately. Let me break this
+Alright, the user asked, "Hello, are you working? Reply with 'Yes' if you can respond." So, they're checking if I'm operational. I should respond with a simple 'Yes' as per their instruction. I

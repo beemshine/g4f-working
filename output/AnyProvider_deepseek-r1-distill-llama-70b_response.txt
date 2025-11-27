@@ -1,2 +1,5 @@
 <think>
-Okay, so I'm trying to figure out how to solve this problem about a rectangular prism. The question is: "The sum of the lengths of all the edges of a rectangular prism is 60 cm. If the length of its diagonal
+Hello, are you working? Reply with 'Yes' if you can respond.
+</think>
+
+Yes.
