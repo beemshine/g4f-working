@@ -1,3 +1,2 @@
 <think>
-Alright, the user asked if I'm working and told me to reply with 'Yes' if I can respond. Since I can, I should just say 'Yes' to keep it simple and clear. No need for anything extra.
-</think>
+Okay, so I need to figure out how to respond to the initial message where someone wrote, "Hello, are you working? Reply with 'Yes' if you can respond." Then, in the responses, the assistant just wrote "Yes
